@@ -1,4 +1,4 @@
-This project demonstrates how to separate Instrumentation Tests from the Android application code into their own module.
+This project demonstrates how to separate Instrumentation Tests from the Android application code into their own module **outside** of the main project file structure.
 
 ### How to run the test
 
